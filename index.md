@@ -1,33 +1,29 @@
 #  python 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python is powerful... and fast;
+plays well with others;
+runs everywhere;
+is friendly & easy to learn;
+is Open.
 
-```markdown
-Syntax highlighted code block
+These are some of the reasons people who use Python would rather not use anything else.
+Getting Started
 
-# Header 1
-## Header 2
-### Header 3
+Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!
 
-- Bulleted
-- List
+    Beginner's Guide, Programmers
+    Beginner's Guide, Non-Programmers
+    Beginner's Guide, Download & Installation
+    Code sample and snippets for Beginners
 
-1. Numbered
-2. List
+Friendly & Easy to Learn
 
-**Bold** and _Italic_ and `Code` text
+The community hosts conferences and meetups, collaborates on code, and much more. Python's documentation will help you along the way, and the mailing lists will keep you in touch.
 
-[Link](url) and ![Image](src)
-```
+    Conferences and Workshops
+    Python Documentation
+    Mailing Lists and IRC channels
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rameshpangare/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
